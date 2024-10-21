@@ -16,6 +16,9 @@ Features:
 Technologies Used:
 
 .Flask: For building the web server and handling user requests.
+
 .HTML/CSS/Bootstrap: For creating a responsive and attractive front-end.
+
 .JavaScript: For dynamic content updates and improved user interaction.
+
 .Machine Learning: Leveraging a Random Forest algorithm to ensure high accuracy in price predictions.
